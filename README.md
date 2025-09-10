@@ -1,4 +1,5 @@
 # AI-Powered Crypto Trading Dashboard
+![Image alt](https://github.com/abushanisro/AlgoTrading_crypto/blob/main/Crytoalgo.png?raw=true)
 
 A sophisticated, high-frequency cryptocurrency trading dashboard with real-time ML predictions, technical analysis and automated trading signals.
 
