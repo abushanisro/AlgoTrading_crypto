@@ -242,7 +242,6 @@ If you find this project helpful, please:
 
 ---
 
-**Built with ❤ by the AI Trading Community**
 
 *Happy Trading!*# crypto_algoTrade
 
